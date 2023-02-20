@@ -9,7 +9,7 @@ read -p "Please enter a password for this account: " pword
 read -p "Please enter the IP addess of this node: " nodeip
 read -p "Please enter the BLSKey of this node: " BLSK
 read -p "How many node are already running on this VPS? (enter 0 for none): " numnodes
-echo "Thanks for the info, you entered the following"
+echo "Thanks for the info, you entered the following..."
 echo "Account Name: $uname"
 echo "Ip Address: $nodeip"
 echo "BLSKey: $BLSK"
