@@ -1,4 +1,4 @@
-#!/bin/bash
+#created by codefire
 
 echo "Welcome to the Yerbas node Install script v0.1a created by Codef1re"
 echo " "
@@ -13,4 +13,4 @@ echo "Thanks for the info, you entered the following"
 echo "Account Name: $uname"
 echo "Ip Address: $nodeip"
 echo "BLSKey: $BLSK"
-echo "Number of Node already running: $numnodes"
+echo "Number of Node already running: $"
